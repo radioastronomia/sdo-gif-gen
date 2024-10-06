@@ -13,13 +13,17 @@
 >>> creates a gif in the current working directory with the downloaded images from the specified filter (frequency) located at the folder specified
 
 !! WARNING !! 
+
 !! too large gifs (a lot of days) may not be fully created due to python's proccess being killed. !!
 
 @ IMAGES SOURCE @
+
 https://sdo.gsfc.nasa.gov/assets/img/browse
 
 for more info, go to https://sdo.gsfc.nasa.gov
 
 $ DEPENDENCIES $
+
 $   requests   $
+
 $   imageio    $
