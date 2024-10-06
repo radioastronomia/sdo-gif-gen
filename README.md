@@ -14,7 +14,7 @@
 
 !! WARNING !! 
 
-!! too large gifs (a lot of days) may not be fully created due to python's proccess being killed. !!
+!! too large gifs (a lot of days) may not be fully created due to python's proccess being killed !!
 
 @ IMAGES SOURCE @
 
